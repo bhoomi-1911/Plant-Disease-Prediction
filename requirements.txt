@@ -6,5 +6,4 @@ scikit-learn
 pandas
 seaborn
 gdown 
-os
 Pillow
