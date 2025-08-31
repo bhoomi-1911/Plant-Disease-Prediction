@@ -69,3 +69,6 @@ The training and validation curves show steady improvement with minimal overfitt
 
 Confusion Matrix
 A confusion matrix was generated to visualize class-wise performance. Most classes achieved near-perfect classification.
+
+
+Live Demo: https://plant-disease-prediction-hqmnp8s3dafrnqifsqjnk7.streamlit.app/
